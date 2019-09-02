@@ -1,7 +1,31 @@
-Goals (high level intended outcomes; for software, a Product Backlog)
-Boundaries / Scope (where the functions and responsibilities of the solution start and end / what it should do and what is left to other systems to do)
-Success criteria (set of conditions to be satisfied at completion; must be measurable and verifiable, like a test) 
-Constraints (externally imposed limitations on system requirements, design, or implementation or on the process used to develop or modify a system)
-Assumptions (things that are accepted as true or as certain to happen, without proof)
-Stakeholders (individuals or organizations having a right, share, claim, or interest in a system or in its possession of characteristics that meet their needs and expectations)
-Timelines (for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)
+Goals 
+Complete the SDSU Sage tutorial, and gain a near-complete understanding of sage and its uses. 
+
+Boundaries / Scope
+Complete all four parts of SDSU Sage Tutorial: About this tutorial, Sage as a Calculator, Programming in Sage, and Mathematical Structures.
+
+Success criteria 
+Submit each monthly part of the personal project and include as much information as requested. Be able to use sage adeptly.  
+
+Constraints 
+The amount of time I leave open each week to progress on my project. 
+
+Assumptions 
+The SDSU Sage Tutorial can be accessed via a browser, so access isn't limited. Sage is free to download online. I can skip the sub-section Contributing to the tutorial.
+
+Stakeholders 
+Me, my parents, Professor Vanselow, anyone who may hire me in future.
+
+Timelines
+Week: 1 About this tutorial & and Introduction                    (3 Hours)
+      2 Getting Started                                           (2 Hours)
+      3 Sage as a Calculator & Arithmetic and Functions           (3 Hours)
+      4 Solving Equations and Inequalities & Calculus             (3 Hours)
+      5 Statistics & Plotting                                     (3 Hours)
+      6 Programming in Sage & Sage Objects                        (3 Hours)
+      7 Programming Tools & Packages within Sage                  (3 Hours)
+      8 Interactive Demonstrations in the Notebook                (2 Hours)
+      9 Mathematical Structures & Integers and Modular Arithmetic (3 Hours)
+      10 Groups & Linear Algebra                                  (3 Hours)
+      11 Rings & Fields                                           (3 Hours)
+      12 Coding Theory                                            (2 Hours)
